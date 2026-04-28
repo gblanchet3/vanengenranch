@@ -3,3 +3,6 @@ node_modules/
 dist/
 .env
 .env.local
+
+# Private working notes — pricing, margins, deal structure
+notes/economics.md
