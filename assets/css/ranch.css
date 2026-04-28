@@ -47,6 +47,17 @@ a { color: inherit; }
   text-transform: uppercase;
   color: var(--earth-ink);
   text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+}
+.brand img {
+  display: block;
+  height: 44px;
+  width: auto;
+}
+.site-footer .brand img {
+  height: 72px;
+  margin: 0 auto;
 }
 .site-nav ul {
   list-style: none;
@@ -141,6 +152,11 @@ a { color: inherit; }
   content: 'Hero photography placeholder';
   color: rgba(255,255,255,0.85);
 }
+.photo.has-image {
+  background-size: cover;
+  background-position: center;
+}
+.photo.has-image::after { content: none; }
 
 /* SECTIONS */
 section { padding: 5rem 2rem; }
