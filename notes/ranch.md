@@ -40,15 +40,29 @@ This is the operational reason fall '26 isn't strictly capped at 10 head — par
 
 Harvest readiness target: **1,400–1,500 lb live weight**, ~64% hanging weight.
 
+## Track record (the part that isn't public yet)
+
+**Nick and Kristen have been selling DTC informally to friends and family for years.** Rave reviews from our own friend group, repeat buyers, word of mouth that has stayed inside their network. This year is the **formal opening of what's been working quietly** — not a pilot, not a beta, not an experiment.
+
+This reframes the entire pitch:
+
+- ❌ "We're piloting a DTC program."
+- ✅ "We've been doing this for friends and family for years. We're opening it up — and we only have ~10 shares left for fall."
+
+Implications:
+- Site copy speaks from experience, not aspiration ("our beef has been on the tables of people we love for years")
+- Pre-orders read as scarcity, not novelty ("only ~10 shares left this fall — the full opening is June 2027")
+- Action item: ask Nick & Kristen for 2–3 testimonials from existing customers — named or anonymized per the friend's preference. These become real social proof.
+
 ## Year-one DTC inventory
 
-This is the inventory we have to sell direct-to-consumer:
+What we have to sell, formally, this year:
 
-- **Fall 2026 (Oct–Dec):** ~10 head (from 2025 cohort — most of that year's calves were already sold to commodity).
-  - **Can pull additional steers from partner ranches** if demand exceeds 10. So fall '26 isn't strictly capped at 10 — but we should *market* it as scarce. Perceived shortage drives action and respects the actual supply constraint.
-- **June 2027:** ~70 head from our own herd (after pulling 20 elite for seedstock and 20 heifers for replacement). Plus partner-ranch supply available if demand exceeds.
+- **Fall 2026 (Oct–Dec):** ~10 head (from the 2025 cohort — most of that year's calves were sold to commodity already, what's left is what's left).
+  - Partner-ranch network can supplement if demand exceeds — but we hold the line on "~10 shares left" as the marketing message. Perceived (and partially real) scarcity is the right frame.
+- **June 2027:** ~70 head from our own herd (after pulling 20 elite for seedstock and 20 heifers for replacement). Partner-ranch supply available beyond that if needed.
 
-Strategy implication: **fall '26 is a small pilot run that proves the model and seeds a pre-order list for the much larger June '27 harvest.**
+Strategy implication: **Fall '26 is the first formal opening of an already-trusted product, with very limited supply. June '27 is the main harvest.** Scarcity now, scale later.
 
 ## Take-home yield per share
 
@@ -131,3 +145,4 @@ Pre-orders with deposits up front:
 - Refund/cancellation policy if animal doesn't reach target weight or processing falls through
 - Partner-ranch sourcing protocol — whose ranches, what price they get, how we communicate this to buyers, where the line is between "ours" and "partner-sourced to our standards"
 - **Simmentals vs. Angus** — confirm the relationship between the registered seedstock program (VE Simmentals) and the Angus-derived beef herd. This affects copy on both pages.
+- **Testimonials from existing DTC customers** — ask Nick & Kristen for 2–3 quotes from friends/family they've already sold to. Named or anonymized.
