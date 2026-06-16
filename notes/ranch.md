@@ -64,22 +64,38 @@ What we have to sell, formally, this year:
 
 Strategy implication: **Fall '26 is the first formal opening of an already-trusted product, with very limited supply. June '27 is the main harvest.** Scarcity now, scale later.
 
-## Take-home yield per share
+## Take-home yield per share (confirmed by Nick)
 
-| Share | Hanging weight | Take-home (cut & wrapped) |
+| Share | Hanging weight | Take-home (cut & wrapped, bone-in) |
 |---|---|---|
 | Whole | ~900–960 lb | **~540–625 lb** |
 | Half | ~450–480 lb | **~270–310 lb** |
 | Quarter | ~225–240 lb | **~135–155 lb** |
 
+Nick's confirmation math: 1,400 lb live × 0.63 (hanging yield) × 0.60 (cut & wrap yield) = ~529 lb whole, bone-in.
+
+**If a customer requests boneless cuts, take-home weight drops further** — typically another 15–20%. Mention this on the cut sheet conversation, not the marketing page.
+
 Beef comes back from the butcher already in branded freezer bags.
 
-> Numbers above are first-pass — Nick to confirm against what he typically tells customers they actually take home.
+### Billing basis (important)
 
-## Pickup & delivery
+**Nick bills on live weight or hanging weight, NOT take-home weight.** Variability in cut & wrap yields (bone-in vs. boneless, customer cut-sheet choices) makes take-home an unreliable invoicing unit.
 
-- **Whole-cow buyers:** can pick up directly at the butcher (Sustainable Meats, Kuna, ID) within set windows.
-- **Half / quarter buyers:** Nick handles pickup and offers delivery for an additional fee. (Exact logistics — staging at ranch vs. drive-to-meet — TBD.)
+For checkout / order flow this means:
+- **Pre-order deposit** is a flat per-share amount (locks the reservation).
+- **Final invoice** is calculated post-harvest based on actual hanging weight × per-lb rate.
+- Customer sees: deposit + balance due at pickup.
+
+The "~540–625 lb take-home" range on the public site is a *yield estimate* to help customers plan their freezer space — it's not the unit they're being charged on.
+
+## Pickup & delivery (confirmed by Nick)
+
+- **Staging point:** Nick stages beef in **Star, Idaho** for customer pickup. (Star is just west of Boise, ~20 min from the Kuna butcher.)
+- **Whole-cow buyers:** can pick up directly at the butcher (Sustainable Meats, Kuna, ID) within set windows, OR collect from Star.
+- **Half / quarter buyers:** pickup at Star, ID.
+- **Delivery available:** Nick will deliver locally when possible — needs a delivery fee built into the order. (Flat fee or distance-based — TBD, but **we have to factor it in** to keep this from eroding margin.)
+- **Mailing:** Avoid for now. Nick has shipped to relatives and confirmed it adds significant cost. Not viable for v1.
 
 ## Butcher
 
@@ -117,12 +133,18 @@ Organic certification is a different set of regulatory hoops we've chosen not to
 ### Rotational grazing
 Stocked at ~1.2 cows/acre. We move the herd to follow the grass. Manure goes back into the soil, carbon stays where it belongs. Winter foraging on residue feed.
 
-### Breed
-**Angus-derived beef program.** We started with Wagyu-influenced genetics and have shifted toward Angus because they finish more efficiently. Future plans (2028+) include reintroducing Wagyu F1 from our breeding program — but for the foreseeable future, all Van Engen beef is Angus.
+### Breed (confirmed by Nick)
 
-We're not offering Wagyu via partner ranches in v1. When Wagyu comes to our beef program, it'll be ours.
+**Two programs, one operation:**
 
-> ⚠️ **Open question:** the seedstock program is named "VE Simmentals" but the beef herd is described as Angus. Need Nick to clarify the relationship between the registered Simmental program and the Angus-derived beef cattle. Are the 20 elite bulls Simmental? Are the 70 supply-chain steers Angus? Most likely scenario: the seedstock side is registered Simmental and the commercial beef side is Angus-derived — but copy on both pages depends on getting this right.
+- **Seedstock side (VE Simmentals):** registered **Simmental and sim-Angus** genetics — these are the 20 elite calves we market as bulls each year, plus the retained heifers improving the herd.
+- **Beef side:** **Angus-derived.** This is the ~70 supply-chain-eligible head per year, plus partner-ranch supply.
+
+Nick's words: "Breed is a label. Simmental also. Quality beef but name recognition with Angus is real."
+
+So: when we talk about **the beef**, we lead with **Angus** — that's what buyers recognize and what the herd is. When we talk about **the seedstock program**, we lead with **Simmental and sim-Angus** — that's what cattlemen recognize and what's registered.
+
+We started with Wagyu-influenced genetics and have shifted toward Angus because they finish more efficiently. Future plans (2028+) include reintroducing Wagyu F1 from our breeding program — but for the foreseeable future, all Van Engen beef is Angus. We're not offering Wagyu via partner ranches in v1.
 
 ## Product format (v1)
 
@@ -139,10 +161,10 @@ Pre-orders with deposits up front:
 
 ## Open questions / TBDs
 
-- Exact half/quarter delivery logistics (Nick's pickup → ranch staging vs. meeting points)
-- Cut sheet template — what defaults do we offer customers?
-- Pre-order deposit % — full payment up-front, 50%, something else?
-- Refund/cancellation policy if animal doesn't reach target weight or processing falls through
-- Partner-ranch sourcing protocol — whose ranches, what price they get, how we communicate this to buyers, where the line is between "ours" and "partner-sourced to our standards"
-- **Simmentals vs. Angus** — confirm the relationship between the registered seedstock program (VE Simmentals) and the Angus-derived beef herd. This affects copy on both pages.
+- **Delivery fee structure** — flat fee or distance-based? What's the operational cost we need to cover?
+- **Cut sheet template** — what defaults do we offer customers? Bone-in standard, with a "boneless option" disclosure on yield?
+- **Pre-order deposit %** — full payment up-front, 50%, flat $X? Balance billed post-harvest on hanging weight.
+- **Refund/cancellation policy** if animal doesn't reach target weight or processing falls through.
+- **Partner-ranch sourcing protocol** — whose ranches, what price they get, how we communicate this to buyers, where the line is between "ours" and "partner-sourced to our standards."
 - **Testimonials from existing DTC customers** — ask Nick & Kristen for 2–3 quotes from friends/family they've already sold to. Named or anonymized.
+- **Per-lb hanging weight rate** — Nick bills on hanging weight, so we need to convert his "20% over commodity + processing" target into a $/lb hanging rate that customers see at checkout.
