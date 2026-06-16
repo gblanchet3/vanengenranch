@@ -4,5 +4,6 @@ dist/
 .env
 .env.local
 
-# Private working notes — pricing, margins, deal structure
+# Private working notes — pricing, margins, deal structure, raw business context
 notes/economics.md
+notes/business-notes.md
